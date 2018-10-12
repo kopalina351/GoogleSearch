@@ -1,0 +1,195 @@
+2018-11-10 20:48:05   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-11-10 20:48:05   INFO [GoogleSearch.HomePage] : Link text was printed
+2018-11-10 20:48:05   INFO [GoogleSearch.HomePage] : Link text was printed
+2018-11-10 20:48:05   INFO [GoogleSearch.HomePage] : Link text was printed
+2018-11-10 20:48:05   INFO [GoogleSearch.HomePage] : Link text was printed
+2018-11-10 20:48:05   INFO [GoogleSearch.HomePage] : Link text was printed
+2018-11-10 20:48:05   INFO [GoogleSearch.HomePage] : Link text was printed
+2018-11-10 20:48:05   INFO [GoogleSearch.HomePage] : Link text was printed
+2018-11-10 20:48:05   INFO [GoogleSearch.HomePage] : Link text was printed
+2018-11-10 20:48:05   INFO [GoogleSearch.HomePage] : Link text was printed
+2018-11-10 20:48:05   INFO [GoogleSearch.HomePage] : Link text was printed
+2018-11-10 20:48:05   INFO [GoogleSearch.HomePage] : Link text was printed
+2018-11-10 20:48:05   INFO [GoogleSearch.HomePage] : Link text was printed
+2018-11-10 20:48:05   INFO [GoogleSearch.HomePage] : Link text was printed
+2018-11-10 20:48:05   INFO [GoogleSearch.HomePage] : Link text was printed
+2018-11-10 20:48:05   INFO [GoogleSearch.HomePage] : Link text was printed
+2018-11-10 20:48:05   INFO [GoogleSearch.HomePage] : Link text was printed
+2018-11-10 20:48:05   INFO [GoogleSearch.HomePage] : Link text was printed
+2018-11-10 20:48:05   INFO [GoogleSearch.HomePage] : Link text was printed
+2018-11-10 20:48:05   INFO [GoogleSearch.HomePage] : Link text was printed
+2018-11-10 20:48:05   INFO [GoogleSearch.HomePage] : Link text was printed
+2018-11-10 20:48:05   INFO [GoogleSearch.HomePage] : Link text was printed
+2018-11-10 20:48:05   INFO [GoogleSearch.HomePage] : Link text was printed
+2018-11-10 20:48:05   INFO [GoogleSearch.HomePage] : Link text was printed
+2018-11-10 20:48:05   INFO [GoogleSearch.HomePage] : Link text was printed
+2018-11-10 20:48:05   INFO [GoogleSearch.HomePage] : Link text was printed
+2018-11-10 20:48:06   INFO [GoogleSearch.HomePage] : Link text was printed
+2018-11-10 20:48:06   INFO [GoogleSearch.HomePage] : Link text was printed
+2018-11-10 20:48:06   INFO [GoogleSearch.HomePage] : Link text was printed
+2018-11-10 20:48:06   INFO [GoogleSearch.HomePage] : Link text was printed
+2018-11-10 20:48:06   INFO [GoogleSearch.HomePage] : Link text was printed
+2018-11-10 20:48:06   INFO [GoogleSearch.HomePage] : Link text was printed
+2018-11-10 20:48:06   INFO [GoogleSearch.HomePage] : Link text was printed
+2018-11-10 20:48:06   INFO [GoogleSearch.HomePage] : Link text was printed
+2018-11-10 20:48:06   INFO [GoogleSearch.HomePage] : Link text was printed
+2018-11-10 20:48:06   INFO [GoogleSearch.HomePage] : Link text was printed
+2018-11-10 20:48:06   INFO [GoogleSearch.HomePage] : Link text was printed
+2018-11-10 20:48:06   INFO [GoogleSearch.HomePage] : Link text was printed
+2018-11-10 20:48:06   INFO [GoogleSearch.HomePage] : Link text was printed
+2018-11-10 20:48:06   INFO [GoogleSearch.HomePage] : Link text was printed
+2018-11-10 20:48:06   INFO [GoogleSearch.HomePage] : Link text was printed
+2018-11-10 20:48:07   INFO [GoogleSearch.HomePage] : Browser was closed
+2018-11-10 20:49:02   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-11-10 20:49:02   INFO [GoogleSearch.HomePage] : Value автоматизация тестирования was inputted in Search field
+2018-11-10 20:50:18   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-11-10 20:50:18   INFO [GoogleSearch.HomePage] : Value автоматизация тестирования was inputted in Search field
+2018-11-10 21:55:19   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-11-10 21:55:19   INFO [GoogleSearch.HomePage] : Value автоматизация тестирования was inputted in Search field
+2018-11-10 21:55:20   INFO [GoogleSearch.SearchPage] : Page number 2 was clicked in Search page
+2018-11-10 21:55:21   INFO [GoogleSearch.SearchPage] : Element screenshot was copied to disk: D:\images\s2.png
+2018-11-10 21:56:52   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-11-10 21:56:52   INFO [GoogleSearch.HomePage] : Value автоматизация тестирования was inputted in Search field
+2018-11-10 21:56:53   INFO [GoogleSearch.SearchPage] : Page number 15 was clicked in Search page
+2018-11-10 21:56:54   INFO [GoogleSearch.SearchPage] : Element screenshot was copied to disk: D:\images\s2.png
+2018-11-10 21:58:32   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-11-10 21:58:32   INFO [GoogleSearch.HomePage] : Value автоматизация тестирования was inputted in Search field
+2018-11-10 21:58:33   INFO [GoogleSearch.SearchPage] : Page number 10 was clicked in Search page
+2018-11-10 21:58:33   INFO [GoogleSearch.SearchPage] : Element screenshot was copied to disk: D:\images\s2.png
+2018-11-10 22:00:17   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-11-10 22:00:17   INFO [GoogleSearch.HomePage] : Value автоматизация тестирования was inputted in Search field
+2018-11-10 22:01:18  ERROR [GoogleSearch.SearchPage] : Can't work with element 
+2018-11-10 22:09:50   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-11-10 22:09:50   INFO [GoogleSearch.HomePage] : Value автоматизация тестирования was inputted in Search field
+2018-11-10 22:10:52  ERROR [GoogleSearch.SearchPage] : Can't work with element 
+2018-11-10 22:12:40   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-11-10 22:12:40   INFO [GoogleSearch.HomePage] : Value автоматизация тестирования was inputted in Search field
+2018-11-10 22:12:41   INFO [GoogleSearch.SearchPage] : Page number 10 was clicked in Search page
+2018-11-10 22:12:42   INFO [GoogleSearch.SearchPage] : Element screenshot was copied to disk: D:\images\s2.png
+2018-11-10 22:12:59   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-11-10 22:12:59   INFO [GoogleSearch.HomePage] : Value автоматизация тестирования was inputted in Search field
+2018-11-10 22:14:00  ERROR [GoogleSearch.SearchPage] : Can't work with element 
+2018-11-10 22:17:08   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-11-10 22:17:09   INFO [GoogleSearch.HomePage] : Value автоматизация тестирования was inputted in Search field
+2018-11-10 22:18:09  ERROR [GoogleSearch.SearchPage] : Can't work with element 
+2018-11-10 22:27:35   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-11-10 22:27:36   INFO [GoogleSearch.HomePage] : Value автоматизация тестирования was inputted in Search field
+2018-11-10 22:27:37   INFO [GoogleSearch.SearchPage] : Page number 10 was clicked in Search page
+2018-11-10 22:27:38   INFO [GoogleSearch.SearchPage] : Page number 10 was clicked in Search page
+2018-11-10 22:27:38   INFO [GoogleSearch.SearchPage] : Page number 10 was clicked in Search page
+2018-11-10 22:27:39   INFO [GoogleSearch.SearchPage] : Page number 10 was clicked in Search page
+2018-11-10 22:27:39   INFO [GoogleSearch.SearchPage] : Element screenshot was copied to disk: D:\images\s2.png
+2018-11-10 22:36:01   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-11-10 22:36:01   INFO [GoogleSearch.HomePage] : Value автоматизация тестирования was inputted in Search field
+2018-11-10 22:36:02   INFO [GoogleSearch.SearchPage] : Element screenshot was copied to disk: D:\images\s2.png
+2018-11-10 22:37:36   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-11-10 22:37:36   INFO [GoogleSearch.HomePage] : Value автоматизация тестирования was inputted in Search field
+2018-11-10 22:37:37   INFO [GoogleSearch.SearchPage] : Element screenshot was copied to disk: D:\images\s2.png
+2018-11-10 22:41:08   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-11-10 22:41:08   INFO [GoogleSearch.HomePage] : Value автоматизация тестирования was inputted in Search field
+2018-11-10 22:41:09   INFO [GoogleSearch.SearchPage] : Element screenshot was copied to disk: D:\images\s2.png
+2018-11-10 22:42:38   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-11-10 22:42:38   INFO [GoogleSearch.HomePage] : Value автоматизация тестирования was inputted in Search field
+2018-11-10 22:42:39   INFO [GoogleSearch.SearchPage] : Page navigation was clicked in Search page
+2018-11-10 22:42:40   INFO [GoogleSearch.SearchPage] : Page navigation was clicked in Search page
+2018-11-10 22:42:40   INFO [GoogleSearch.SearchPage] : Page navigation was clicked in Search page
+2018-11-10 22:42:41   INFO [GoogleSearch.SearchPage] : Page navigation was clicked in Search page
+2018-11-10 22:42:42   INFO [GoogleSearch.SearchPage] : Page navigation was clicked in Search page
+2018-11-10 22:42:42   INFO [GoogleSearch.SearchPage] : Page navigation was clicked in Search page
+2018-11-10 22:42:43   INFO [GoogleSearch.SearchPage] : Page navigation was clicked in Search page
+2018-11-10 22:42:44   INFO [GoogleSearch.SearchPage] : Page navigation was clicked in Search page
+2018-11-10 22:42:44   INFO [GoogleSearch.SearchPage] : Page navigation was clicked in Search page
+2018-11-10 22:42:45   INFO [GoogleSearch.SearchPage] : Page navigation was clicked in Search page
+2018-11-10 22:42:46   INFO [GoogleSearch.SearchPage] : Page navigation was clicked in Search page
+2018-11-10 22:42:46   INFO [GoogleSearch.SearchPage] : Page navigation was clicked in Search page
+2018-11-10 22:42:47   INFO [GoogleSearch.SearchPage] : Page navigation was clicked in Search page
+2018-11-10 22:42:48   INFO [GoogleSearch.SearchPage] : Page navigation was clicked in Search page
+2018-11-10 22:42:48   INFO [GoogleSearch.SearchPage] : Element screenshot was copied to disk: D:\images\s2.png
+2018-11-10 22:44:01   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-11-10 22:44:01   INFO [GoogleSearch.HomePage] : Value автоматизация тестирования was inputted in Search field
+2018-11-10 22:44:03   INFO [GoogleSearch.SearchPage] : Page navigation was clicked in Search page
+2018-11-10 22:44:03   INFO [GoogleSearch.SearchPage] : Element screenshot was copied to disk: D:\images\s2.png
+2018-11-10 22:44:40   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-11-10 22:44:40   INFO [GoogleSearch.HomePage] : Value автоматизация тестирования was inputted in Search field
+2018-11-10 22:44:41   INFO [GoogleSearch.SearchPage] : Element screenshot was copied to disk: D:\images\s2.png
+2018-11-10 22:45:06   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-11-10 22:45:06   INFO [GoogleSearch.HomePage] : Value автоматизация тестирования was inputted in Search field
+2018-11-10 22:45:07   INFO [GoogleSearch.SearchPage] : Page navigation was clicked in Search page
+2018-11-10 22:45:08   INFO [GoogleSearch.SearchPage] : Page navigation was clicked in Search page
+2018-11-10 22:45:09   INFO [GoogleSearch.SearchPage] : Page navigation was clicked in Search page
+2018-11-10 22:45:09   INFO [GoogleSearch.SearchPage] : Element screenshot was copied to disk: D:\images\s2.png
+2018-11-10 22:50:04   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-11-10 22:50:04   INFO [GoogleSearch.HomePage] : Value автоматизация тестирования was inputted in Search field
+2018-11-10 22:50:06   INFO [GoogleSearch.SearchPage] : Page navigation was clicked in Search page
+2018-11-10 22:50:06   INFO [GoogleSearch.SearchPage] : Element screenshot was copied to disk: D:\images\nameScreenshot.png
+2018-11-10 22:50:07   INFO [GoogleSearch.SearchPage] : Page navigation was clicked in Search page
+2018-11-10 22:50:08   INFO [GoogleSearch.SearchPage] : Element screenshot was copied to disk: D:\images\nameScreenshot.png
+2018-11-10 22:50:08   INFO [GoogleSearch.SearchPage] : Page navigation was clicked in Search page
+2018-11-10 22:50:09   INFO [GoogleSearch.SearchPage] : Element screenshot was copied to disk: D:\images\nameScreenshot.png
+2018-12-10 12:00:34   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-12-10 12:00:34   INFO [GoogleSearch.HomePage] : Value автоматизация тестирования was inputted in Search field
+2018-12-10 12:32:37   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-12-10 12:32:37   INFO [GoogleSearch.HomePage] : Value автоматизация тестирования was inputted in Search field
+2018-12-10 12:50:36   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-12-10 12:50:36   INFO [GoogleSearch.HomePage] : Value автоматизация тестирования was inputted in Search field
+2018-12-10 12:51:09   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-12-10 12:51:10   INFO [GoogleSearch.HomePage] : Value автоматизация тестирования was inputted in Search field
+2018-12-10 12:54:05   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-12-10 12:54:06   INFO [GoogleSearch.HomePage] : Value автоматизация тестирования was inputted in Search field
+2018-12-10 12:54:48   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-12-10 12:54:48   INFO [GoogleSearch.HomePage] : Value автоматизация тестирования was inputted in Search field
+2018-12-10 13:54:35   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-12-10 13:54:35   INFO [GoogleSearch.HomePage] : Value автоматизация тестирования was inputted in Search field
+2018-12-10 13:58:12   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-12-10 13:58:13   INFO [GoogleSearch.HomePage] : Value автоматизация тестирования was inputted in Search field
+2018-12-10 13:59:11   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-12-10 13:59:11   INFO [GoogleSearch.HomePage] : Value автоматизация тестирования was inputted in Search field
+2018-12-10 14:03:07   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-12-10 14:03:07   INFO [GoogleSearch.HomePage] : Value автоматизация тестирования was inputted in Search field
+2018-12-10 14:05:15   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-12-10 14:05:15   INFO [GoogleSearch.HomePage] : Value автоматизация тестирования was inputted in Search field
+2018-12-10 14:05:18   INFO [GoogleSearch.SearchPage] : Element screenshot was copied to disk: D:\images\nameScreenshot.png
+2018-12-10 14:07:11   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-12-10 14:07:11   INFO [GoogleSearch.HomePage] : Value автоматизация тестирования was inputted in Search field
+2018-12-10 14:07:13   INFO [GoogleSearch.SearchPage] : Element screenshot was copied to disk: D:\images\nameScreenshot.png
+2018-12-10 14:11:56   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-12-10 14:11:56   INFO [GoogleSearch.HomePage] : Value автоматизация тестирования was inputted in Search field
+2018-12-10 14:11:58   INFO [GoogleSearch.SearchPage] : Page 8 was clicked
+2018-12-10 14:11:58   INFO [GoogleSearch.SearchPage] : Element screenshot was copied to disk: D:\images\nameScreenshot.png
+2018-12-10 14:13:15   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-12-10 14:13:15   INFO [GoogleSearch.HomePage] : Value 'автоматизация тестирования' was inputted in Search field
+2018-12-10 14:13:16   INFO [GoogleSearch.SearchPage] : Page 8 was clicked
+2018-12-10 14:13:17   INFO [GoogleSearch.SearchPage] : Element screenshot was copied to disk: D:\images\nameScreenshot.png
+2018-12-10 14:23:16   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-12-10 14:23:16   INFO [GoogleSearch.HomePage] : Search query 'автоматизация тестирования' was inputted in Search field
+2018-12-10 14:27:43   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-12-10 14:27:43   INFO [GoogleSearch.HomePage] : Search query 'автоматизация тестирования' was inputted in Search field
+2018-12-10 14:27:48   INFO [GoogleSearch.SearchPage] : Page 14 was clicked
+2018-12-10 14:29:59   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-12-10 14:29:59   INFO [GoogleSearch.HomePage] : Search query 'автоматизация тестирования' was inputted in Search field
+2018-12-10 14:30:04   INFO [GoogleSearch.SearchPage] : Page 14 was clicked
+2018-12-10 14:31:19   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-12-10 14:31:20   INFO [GoogleSearch.HomePage] : Search query 'автоматизация тестирования' was inputted in Search field
+2018-12-10 14:31:22   INFO [GoogleSearch.SearchPage] : Page 14 was clicked
+2018-12-10 14:32:17   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-12-10 14:32:17   INFO [GoogleSearch.HomePage] : Search query 'автоматизация тестирования' was inputted in Search field
+2018-12-10 14:32:19   INFO [GoogleSearch.SearchPage] : Page 14 was clicked
+2018-12-10 14:34:53   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-12-10 14:34:53   INFO [GoogleSearch.HomePage] : Search query 'автоматизация тестирования' was inputted in Search field
+2018-12-10 14:34:55   INFO [GoogleSearch.SearchPage] : Page 14 was clicked
+2018-12-10 14:34:56   INFO [GoogleSearch.SearchPage] : Element screenshot was copied to disk: D:\images\nameScreenshot.png
+2018-12-10 14:36:10   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-12-10 14:36:11   INFO [GoogleSearch.HomePage] : Search query 'автоматизация тестирования' was inputted in Search field
+2018-12-10 14:36:13   INFO [GoogleSearch.SearchPage] : Page 14 was clicked
+2018-12-10 14:36:14   INFO [GoogleSearch.SearchPage] : Element screenshot was copied to disk: D:\images\nameScreenshot.png
+2018-12-10 14:37:47  ERROR [GoogleSearch.HomePage] : Can not work with HomePage
+2018-12-10 14:37:58   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-12-10 14:37:58   INFO [GoogleSearch.HomePage] : Search query 'автоматизация тестирования' was inputted in Search field
+2018-12-10 14:44:29   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-12-10 14:44:30   INFO [GoogleSearch.HomePage] : Search query 'автоматизация тестирования' was inputted in Search field
+2018-12-10 14:44:32   INFO [GoogleSearch.SearchPage] : Page 14 was clicked
+2018-12-10 14:45:32  ERROR [GoogleSearch.SearchPage] : Page '18' not found. Please check search query
+2018-12-10 14:46:25   INFO [GoogleSearch.HomePage] : Home page was opened
+2018-12-10 14:46:25   INFO [GoogleSearch.HomePage] : Search query 'автоматизация тестирования' was inputted in Search field
+2018-12-10 14:46:27   INFO [GoogleSearch.SearchPage] : Page 14 was clicked
+2018-12-10 14:46:28   INFO [GoogleSearch.SearchPage] : Element screenshot was copied to disk: D:\images\nameScreenshot.png
